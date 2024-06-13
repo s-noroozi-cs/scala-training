@@ -1,0 +1,5 @@
+.idea
+.idea\**\*.xml
+.bsp
+.idea
+target
